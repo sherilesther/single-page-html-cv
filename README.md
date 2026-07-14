@@ -3,5 +3,5 @@ Single Page HTML CV project from roadmap.sh
 This is my solution for the roadmap.sh single page HTML CV project.
 
 #Project URL 
-https://sherilesther.github.io/single-page-html-cv/
+Project URL : https://sherilesther.github.io/single-page-html-cv/
 
